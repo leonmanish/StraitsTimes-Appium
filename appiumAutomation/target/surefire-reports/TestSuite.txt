@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 113.821 s <<< FAILURE! - in TestSuite
+launchApplication(appiumEcomDemo.AppiumDriverTest)  Time elapsed: 85.887 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<[We need the information to secure your payment.]> but was:<[Order placed successfully]>
+	at appiumEcomDemo.AppiumDriverTest.launchApplication(AppiumDriverTest.java:177)
+
